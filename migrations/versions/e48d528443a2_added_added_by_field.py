@@ -1,7 +1,7 @@
 """added added_by field
 
 Revision ID: e48d528443a2
-Revises: 
+Revises:
 Create Date: 2026-10-01 12:31:46.550349
 
 """
